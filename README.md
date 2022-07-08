@@ -33,12 +33,9 @@
 |![Screenshot_20220707-232620](https://user-images.githubusercontent.com/81049859/177915052-b84a660f-6c1c-4960-b6e8-378fba2f6a6f.png)|![Screenshot_20220707-232640](https://user-images.githubusercontent.com/81049859/177915069-d4184b93-4119-4a8b-a1dd-5c0cbeeabe7f.png)|
 
 ## MegatubeCj7 :
-* `[ 01 ]` Instala **Metasploit 6** correctamente y sin errores.
-* `[ 02 ]` Crea automáticamente varios tipos de **payloads** (.apk .py .sh .pl) más su respectivo script de **persistencia**.
-* `[ 03 ]` Personaliza un payload.apk **modificando** el nombre del backdoor y cambiando el ícono por el que desees para una mejor ingeniería social.
-* `[ 04 ]` Infecta una aplicación **legítima** (con un backdoor.apk creado con msfvenom), crea su respectivo script de **persistencia** y hazla totalmente indetectable.
-* `[ 05 ]` Configura e inicia **automáticamente** la consola de metasploit-framework.
-* `[ 06 ]` Aprende muchísimas, útiles y prácticas **guías** que te ayudarán a dominar la herramienta.
+* Descarga música y videos de manera ilimitada en la mejor calidad de cualquier plataforma.
+* Compartir cualquier enlace con la aplicación de termux para iniciar la descarga.
+* Compatible con todas las plataformas android y más de 900 páginas de internet.
 * Contenido, código, diseño y demás, pertenecen plena y totalmente a mí :sunglasses:
 - > ` By: ⍣᭕ᬁ᭖JulioCj7᭖᭕ᬁ⍣ `
 
