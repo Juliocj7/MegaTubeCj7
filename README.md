@@ -33,7 +33,7 @@
 |![Screenshot_20220707-232620](https://user-images.githubusercontent.com/81049859/177915052-b84a660f-6c1c-4960-b6e8-378fba2f6a6f.png)|![Screenshot_20220707-232640](https://user-images.githubusercontent.com/81049859/177915069-d4184b93-4119-4a8b-a1dd-5c0cbeeabe7f.png)|
 
 ## MegatubeCj7 :
-* Descarga música y videos de manera ilimitada en la mejor calidad de cualquier plataforma.
+* Descarga música y videos de manera ilimitada en la mejor calidad y de cualquier plataforma.
 * Compartir cualquier enlace con la aplicación de termux para iniciar la descarga.
 * Compatible con todas las plataformas android y más de 900 páginas de internet.
 * Contenido, código, diseño y demás, pertenecen plena y totalmente a mí :sunglasses:
