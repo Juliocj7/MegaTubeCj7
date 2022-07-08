@@ -35,7 +35,7 @@
 ## MegatubeCj7 :
 * Descarga música y videos de manera ilimitada en la mejor calidad y de cualquier plataforma.
 * Compartir cualquier enlace con la aplicación de termux para iniciar la descarga.
-* Compatible con todas las plataformas android y más de 900 páginas de internet.
+* Compatible con todas las plataformas android y con más de 900 páginas de internet.
 * Contenido, código, diseño y demás, pertenecen plena y totalmente a mí :sunglasses:
 - > ` By: ⍣᭕ᬁ᭖JulioCj7᭖᭕ᬁ⍣ `
 
