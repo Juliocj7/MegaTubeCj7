@@ -23,12 +23,16 @@
 </details>
 
 ## Menú Principal :
-![Screenshot_20220626-192649_Termux](https://user-images.githubusercontent.com/81049859/175838066-a2ea1b75-f55b-489e-816f-399a46d11cfc.png)
+![Screenshot_20220707-232252_Termux](https://user-images.githubusercontent.com/81049859/177914988-1454ae3b-7096-4e35-bb06-6fee14bf6e5e.png)
 
-## Guía By JulioCj7 : 
-![Screenshot_20220626-192716_Termux](https://user-images.githubusercontent.com/81049859/175838072-93ce6c96-0e2b-406a-adba-fac1d2e02791.png)
+## Formatos a elección : 
+![Screenshot_20220707-232212_Termux](https://user-images.githubusercontent.com/81049859/177915005-3111b0eb-b7b4-43e7-9bf4-c726db9b1b6a.png)
 
-## MetasploitCj7 :
+|Paso 1|Paso 2|
+|------|------|
+|![Screenshot_20220707-232620](https://user-images.githubusercontent.com/81049859/177915052-b84a660f-6c1c-4960-b6e8-378fba2f6a6f.png)|![Screenshot_20220707-232640](https://user-images.githubusercontent.com/81049859/177915069-d4184b93-4119-4a8b-a1dd-5c0cbeeabe7f.png)|
+
+## MegatubeCj7 :
 * `[ 01 ]` Instala **Metasploit 6** correctamente y sin errores.
 * `[ 02 ]` Crea automáticamente varios tipos de **payloads** (.apk .py .sh .pl) más su respectivo script de **persistencia**.
 * `[ 03 ]` Personaliza un payload.apk **modificando** el nombre del backdoor y cambiando el ícono por el que desees para una mejor ingeniería social.
@@ -49,13 +53,13 @@ https://github.com/Juliocj7/UtilsCj7
 ```bash
   yes|pkg update && pkg upgrade
 ```
-* ` git clone https://github.com/Juliocj7/MetasploitCj7 `
+* ` git clone https://github.com/Juliocj7/MegatubeCj7 `
 
-* ` cd MetasploitCj7 `
+* ` cd MegatubeCj7 `
 
 * ` chmod +x * `
 
-* ` ./MetasploitCj7 `
+* ` ./MegatubeCj7.sh `
 
 ---
 ###### `Pd: Porfavor informar cualquier error`
