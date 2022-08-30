@@ -25,6 +25,9 @@
 ## Menú Principal :
 ![Screenshot_20220830-152628_Termux](https://user-images.githubusercontent.com/81049859/187527095-86590372-738f-44a5-ae56-b6e91bef201b.png)
 
+## Descarga :
+![Screenshot_20220830-154552_Termux](https://user-images.githubusercontent.com/81049859/187529482-56959e27-0980-472c-9a42-9e8a64428e68.png)
+
 ## Comparte con Termux :
 |Paso 1|Paso 2|
 |------|------|
