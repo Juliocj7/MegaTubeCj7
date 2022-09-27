@@ -34,7 +34,7 @@
 |![Screenshot_20220707-232620](https://user-images.githubusercontent.com/81049859/177915052-b84a660f-6c1c-4960-b6e8-378fba2f6a6f.png)|![Screenshot_20220707-232640](https://user-images.githubusercontent.com/81049859/177915069-d4184b93-4119-4a8b-a1dd-5c0cbeeabe7f.png)|
 
 ## MegatubeCj7 :
-* Descarga música de Spotify y videos de YouTube manera ilimitada en la mejor calidad (formatos a elección disponible).
+* Descarga música de Spotify & videos de YouTube de manera ilimitada y en la mejor calidad (formatos a elección disponible).
 * Compartir cualquier enlace con la aplicación de termux para iniciar la descarga.
 * Compatible con todas las plataformas android (Instagram, Twitter, TikTok, etc) y también con más de 900 páginas de internet.
 * Contenido, código, diseño y demás, pertenecen plena y totalmente a mí :sunglasses:
