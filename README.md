@@ -23,12 +23,10 @@
 </details>
 
 ## Menú Principal :
-![Screenshot_20221229-000409_Termux](https://user-images.githubusercontent.com/81049859/209904636-5e0bc2e1-20cf-4266-9b90-854e7c7ff127.png)
-
+![1000328391](https://github.com/Juliocj7/MegatubeCj7/assets/81049859/9e60f7f3-6eeb-4a77-bbc0-f3323cbc796f)
 
 ## Descarga :
-![Screenshot_20221229-001040_Termux](https://user-images.githubusercontent.com/81049859/209904647-3fc2e404-9b8b-427e-ba4e-c5ade0f55863.png)
-
+![1000328393](https://github.com/Juliocj7/MegatubeCj7/assets/81049859/e03d698c-93f3-4c61-a966-9b0f24af1927)
 
 ## Comparte con Termux :
 |Paso 1|Paso 2|
