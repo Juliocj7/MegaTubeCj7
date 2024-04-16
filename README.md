@@ -61,7 +61,7 @@ ______________________________________________________
 - > ` By: ⍣᭕ᬁ᭖JulioCj7᭖᭕ᬁ⍣ `
 
 ## Uso :
-* Compartir link con Termux app o:
+* Compartir link externamente con Termux app o iniciar script con:
 ```shell
 ./MegaTubeCj7 "<LINK-VIDEO-URL>"
 ```
