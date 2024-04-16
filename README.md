@@ -50,13 +50,13 @@ ______________________________________________________
 
 ## Comparte con Termux :
 |Paso 1|Paso 2|
-|------|------|
+|:----:|:----:|
 |![Screenshot_20220707-232620](https://user-images.githubusercontent.com/81049859/177915052-b84a660f-6c1c-4960-b6e8-378fba2f6a6f.png)|![Screenshot_20220707-232640](https://user-images.githubusercontent.com/81049859/177915069-d4184b93-4119-4a8b-a1dd-5c0cbeeabe7f.png)|
 
-## MegatubeCj7 :
-* Descarga música de Spotify & videos de YouTube de manera ilimitada y en la mejor calidad (formatos a elección disponible).
-* Compartir cualquier enlace con la aplicación de termux para iniciar la descarga.
-* Compatible con todas las plataformas android (Instagram, Twitter, TikTok, etc) y también con más de 900 páginas de internet.
+## MegaTubeCj7 :
+* Descarga **música de Spotify** y **videos de YouTube** de forma ilimitada y en la mejor calidad (formatos disponibles a elección).
+* Comparte cualquier enlace con la aplicación de Termux para iniciar la descarga.
+* Compatible con Facebook, Instagram, Twitter, TikTok y también con más de 900 páginas de internet.
 * Contenido, código, diseño y demás, pertenecen plena y totalmente a mí :sunglasses:
 - > ` By: ⍣᭕ᬁ᭖JulioCj7᭖᭕ᬁ⍣ `
 
@@ -64,17 +64,18 @@ ______________________________________________________
 > [!NOTE]  
 > Para un correcto funcionamiento de esta herramienta porfavor instale los • [recursos básicos](https://github.com/Juliocj7/UtilsCj7) • para termux.
 
-```bash
-  yes|apt update && apt upgrade
+###### 01. Actualizar paquetes
+```shell
+yes|{apt update && apt upgrade}
 ```
-
-* ` git clone https://github.com/Juliocj7/MegatubeCj7 `
-
-* ` cd MegatubeCj7 `
-
-* ` chmod +x * `
-
-* ` ./MegatubeCj7.sh `
+###### 02. Clonar repositorio
+```shell
+gh repo clone Juliocj7/MegaTubeCj7
+```
+###### 03. Ahora disfruta xD
+```shell
+cd MegaTubeCj7 && chmod +x * && ./MegaTubeCj7
+```
 
 ---
 ###### `Pd: Porfavor informar cualquier error`
