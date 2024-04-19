@@ -46,7 +46,10 @@ ______________________________________________________
 ![1000328391](https://github.com/Juliocj7/MegatubeCj7/assets/81049859/9e60f7f3-6eeb-4a77-bbc0-f3323cbc796f)
 
 ## Progreso de Descarga :
-![1000328393](https://github.com/Juliocj7/MegatubeCj7/assets/81049859/e03d698c-93f3-4c61-a966-9b0f24af1927)
+
+|Downloading|
+|:---------:|
+|![1000332329](https://github.com/Juliocj7/MegaTubeCj7/assets/81049859/100632ba-d094-4bbd-86e9-4acd6e12d12c)|
 
 ## Comparte con Termux :
 |Paso 1|Paso 2|
