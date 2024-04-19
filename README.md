@@ -45,14 +45,12 @@ ______________________________________________________
 ## Menú Principal :
 ![1000328391](https://github.com/Juliocj7/MegatubeCj7/assets/81049859/9e60f7f3-6eeb-4a77-bbc0-f3323cbc796f)
 
-## Progreso de Descarga :
-
 |Downloading|
 |:---------:|
 |![1000332329](https://github.com/Juliocj7/MegaTubeCj7/assets/81049859/100632ba-d094-4bbd-86e9-4acd6e12d12c)|
 
 ## Comparte con Termux :
-|Paso 1|Paso 2|
+|Share with|Termux xD|
 |:----:|:----:|
 |![Screenshot_20220707-232620](https://user-images.githubusercontent.com/81049859/177915052-b84a660f-6c1c-4960-b6e8-378fba2f6a6f.png)|![Screenshot_20220707-232640](https://user-images.githubusercontent.com/81049859/177915069-d4184b93-4119-4a8b-a1dd-5c0cbeeabe7f.png)|
 
